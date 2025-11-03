@@ -37,9 +37,12 @@
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
   
 *Приведите ответ в свободной форме.*  
+
 ---  
 Ответ:  
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+Поднял Metasploitable  
+
+![Alt text](screenshot/1.1.png)
 
 
 ### Задание 2
