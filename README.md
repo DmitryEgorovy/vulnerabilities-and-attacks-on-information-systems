@@ -50,7 +50,7 @@
 
 Список трех уязвимостей:  
 
-https://www.exploit-db.com/exploits/17491 - Порт: 21 (FTP). 
+https://www.exploit-db.com/exploits/17491 - Порт: 21 (FTP).   
 https://www.exploit-db.com/exploits/9915 - Порт: 3632 (distcc).  
 https://www.exploit-db.com/exploits/16922 - Порт: 6667 (UnrealIRCd).  
 
