@@ -77,7 +77,10 @@ SYN - Не завершает тройное рукопожатие. После 
 ![Alt text](screenshot/SYN.png)  
 
 FIN-сканирование в отправляет пакеты только с установленным флагом FIN более скрытное, чем SYN-сканирование.  
-![Alt text](screenshot/FIN1.png)
+![Alt text](screenshot/FIN1.png)  
+
+Xmas-сканирование отправляет пакеты с флагами FIN, PSH и URG.  
+![Alt text](screenshot/Xmas.png)
   
 
 
