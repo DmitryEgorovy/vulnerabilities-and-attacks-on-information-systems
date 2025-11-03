@@ -73,8 +73,8 @@ https://www.exploit-db.com/exploits/16922 - Порт: 6667 (UnrealIRCd).
 ---  
 
 Ответ:  
-
-![Alt text](screenshot/SYN.png)  
 SYN - Не завершает тройное рукопожатие. После SYN-ACK Metasploit отправляет пакет RST для разрыва соединения, не создавая полноценного сеанса, это делает сканирование быстрым.  
+![Alt text](screenshot/SYN.png)  
+  
 
 
