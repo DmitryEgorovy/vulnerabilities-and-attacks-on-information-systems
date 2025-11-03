@@ -42,7 +42,12 @@
 Ответ:  
 Поднял Metasploitable  
 
-![Alt text](screenshot/1.1.png)
+![Alt text](screenshot/1.1.png)  
+
+Разрешены службы - ftp, ssh, telnet, smtp, domain, http, rpcbind, netbios-ssn, exec, login, tcpwrapped, java-rmi, bindshell, nfs, ftp, mysql, postgresql, vnc, X11, irc, ajp13.  
+![Alt text](screenshot/1.2.png)  
+![Alt text](screenshot/1.3.png)  
+
 
 
 ### Задание 2
